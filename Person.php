@@ -2,5 +2,5 @@
 
 class Person 
 {
-  public $name;
+  private $name;
 }

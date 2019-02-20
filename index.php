@@ -9,7 +9,7 @@ $employee->working();
 echo '<br/>';
 
 $teacher = new Teacher();
-$teacher->name = 'Sarah';
+// $teacher->name = 'Sarah';
 
 $teacher->teaching();
 
